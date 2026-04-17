@@ -147,7 +147,7 @@ sim.set_runtime(
 # 10. OUTPUT CONFIGURATION
 #===============================================================================
 sim.set_output(
-    path_out = './outputs/flat_split/'            # Output directory
+    path_out = './outputs/split/'            # Output directory
     )
 
 #
